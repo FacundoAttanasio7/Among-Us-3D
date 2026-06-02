@@ -15,3 +15,8 @@ El objetivo del proyecto fue diseñar modelos 3D en Blender e integrarlos en God
 - Modelos 3D propios
 - Integración de assets 3D
 - Trabajo en equipo
+
+<img width="602" height="356" alt="Among Us" src="https://github.com/user-attachments/assets/7518395c-0e2a-4b51-85fa-285226217d8d" />
+
+<img width="1284" height="789" alt="Among Us 2 jpg" src="https://github.com/user-attachments/assets/a33ca8f6-7d30-46b1-9de7-48323be13bd1" />
+
